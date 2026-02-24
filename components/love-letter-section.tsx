@@ -41,10 +41,10 @@ export function LoveLetterSection() {
           }`}
         >
           <p className="text-primary/60 uppercase tracking-[0.3em] text-xs mb-4" style={{ fontFamily: "var(--font-body)" }}>
-            Do fundo do coracao
+            Do fundo de nha coracao
           </p>
           <h2 className="font-serif text-3xl md:text-5xl font-bold text-foreground mb-4 text-balance">
-            Carta de Amor
+            Kel Cartinha
           </h2>
           <div className="w-16 h-[1px] bg-primary/30 mx-auto" />
         </div>
@@ -72,45 +72,29 @@ export function LoveLetterSection() {
 
             {/* Letter content */}
             <div className="p-8 md:p-12 space-y-6" style={{ fontFamily: "var(--font-body)" }}>
+             
+
               <p className="text-foreground/90 leading-relaxed text-base md:text-lg">
-                Sempre te digo que nao sou muito bom com palavras &mdash; a minha maneira sempre foi demonstrar
-                o que sinto atraves de gestos, de olhares, de silencios que dizem mais do que eu
-                conseguiria expressar. Mas hoje, resolvi quebrar esse meu jeito reservado e colocar
-                tudo o que carrego dentro de mim: todo o meu afeto, toda a minha gratidao, todo o
-                amor que sinto por ti.
+               Ess website ene apenas um conjunto de pagina, cores, e codigo. Cada Detalhe k bh t oia li, foi pensod k txeu carinho, feito k alma, e construído k um unico proposito.{" "}
+                <span className="text-primary font-semibold">Mostra, de forma mais sincera, tudo uk k un t sinti pa bh.</span>
               </p>
 
               <p className="text-foreground/90 leading-relaxed text-base md:text-lg">
-                Tu foste o meu melhor presente de 2025. Comecamos a namorar no primeiro dia do ano,
-                como se o universo quisesse dizer que tu serias o recomeco de tudo para mim. E seras,
-                sem duvida, o meu presente de 2026, e de todos os anos que virao.{" "}
-                <span className="text-primary font-semibold">Tu foste &mdash; e es &mdash; a melhor coisa que me aconteceu.</span>
+               Enquanto un tava t escreve cada linha de codigo e un tava ajusta cada detalhe ness site, era na bh k un tava t pensa. Proque p min, bh ne somente um pessoa especial p min, bh é ken ek t ilumina nhas dias, ek t fazeme erri sem tma fé, e k t dame mas sentido na td uk k un t faze.
               </p>
 
               <p className="text-foreground/90 leading-relaxed text-base md:text-lg">
-                Tenho tanto a agradecer-te. Nos momentos em que eu nao estava bem, quando tudo parecia
-                desmoronar-se, tu estavas la, firme, a segurar-me. Ensinaste-me o que e amar de
-                verdade. Confesso que, inicialmente, tinha muito medo de me entregar, de baixar as
-                minhas defesas e deixar alguem entrar tao profundamente na minha vida. Mas tu, com a
-                tua paciencia infinita, com o teu carinho genuino, mostraste-me que amar nao e
-                perder-se &mdash; e encontrar-se no outro.
-              </p>
-
-              <p className="text-foreground/90 leading-relaxed text-base md:text-lg">
-                Por tudo isso, pela mulher incrivel que es, pela forma como transformaste a minha vida,
-                eu te agradeco. Agradeco cada sorriso, cada abraco, cada momento ao teu lado.{" "}
+                Ess site foi um pequeno forma p demonstra td nha carinho, admiraçao amor, k un t guarda dent de min{" "}
                 <span className="text-primary font-semibold">
-                  Tu es a minha certeza em meio a tantas duvidas, a minha paz em meio ao caos.
+                  K td nha carinho. BH CREMOSOO, BH MUSSIN.
                 </span>
               </p>
 
               <div className="pt-6 border-t border-border/30">
                 <p className="text-primary italic text-lg md:text-xl font-serif">
-                  Amo-te mais do que as palavras conseguem dizer, mas quis tentar.
-                </p>
-                <p className="text-foreground/70 mt-4 text-sm">
-                  Para sempre teu
-                </p>
+                  Un t amob mais do k palavras t consigui dze, mas un cris tenta kkkk
+                          </p>
+                
               </div>
             </div>
           </div>

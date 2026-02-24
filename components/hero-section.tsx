@@ -50,15 +50,15 @@ export function HeroSection() {
           </p>
 
           <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl font-bold text-foreground mb-4 text-balance leading-tight">
-            Para ti,{" "}
+            Keli eh pa BH,{" "}
             <span className="text-primary italic">Cremosaa</span>
           </h1>
 
           <div className="w-24 h-[1px] bg-primary/40 mx-auto my-8" />
 
           <p className="text-muted-foreground text-lg md:text-xl leading-relaxed max-w-xl mx-auto" style={{ fontFamily: "var(--font-body)" }}>
-            Desde o primeiro olhar ate ao infinito. Esta e a nossa historia,
-            escrita com amor, vivida com o coracao.
+            Desde primeiro olhar na escola ate infinito. Ess li eh nós historia,
+            feito k txeu amor, vivid k coracao.
           </p>
 
           <div className="mt-8 flex items-center justify-center gap-2 text-primary/60">

@@ -12,22 +12,18 @@ export function FooterSection() {
         <Heart className="w-8 h-8 text-primary mx-auto mb-6 animate-pulse" fill="currentColor" />
 
         <h3 className="font-serif text-2xl md:text-4xl font-bold text-foreground mb-4 text-balance">
-          Para sempre teu, Cremosaa
+          Para sempre bossa, Cremosaa
         </h3>
 
-        <p className="text-muted-foreground leading-relaxed mb-8" style={{ fontFamily: "var(--font-body)" }}>
-          Amo-te mais do que as palavras conseguem dizer.
-          Obrigado por seres a melhor parte dos meus dias.
-        </p>
 
         <div className="flex items-center justify-center gap-2 text-primary/40 text-xs" style={{ fontFamily: "var(--font-body)" }}>
           <span>Feito com</span>
           <Heart className="w-3 h-3" fill="currentColor" />
-          <span>para a pessoa mais especial do mundo</span>
+          <span>p pssoa mais especial dess mundo</span>
         </div>
 
         <p className="text-muted-foreground/30 text-xs mt-6" style={{ fontFamily: "var(--font-body)" }}>
-          18.12.2024 &mdash; Para sempre
+          24.02.2026
         </p>
       </div>
     </footer>

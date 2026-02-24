@@ -18,7 +18,7 @@ const timelineEvents: TimelineEvent[] = [
     date: "18 de Dezembro, 2024",
     title: "O Primeiro Encontro",
     description:
-      "O dia em que tudo comecou. Saimos pela primeira vez e, sem saber, estavamos a escrever o primeiro capitulo da nossa historia. Naquele momento, algo mudou dentro de mim.",
+      "Dia em k tudo começa. No saí p primeira vez e, sem sabe, k no tava t escreve nos primer capitulo de nos historia.",
     image: "/images/1.png",
     icon: <Sparkles className="w-4 h-4" />,
     quote: "Tu foste o meu melhor presente.",
@@ -27,55 +27,55 @@ const timelineEvents: TimelineEvent[] = [
     date: "1 de Janeiro, 2025",
     title: "Comeco do Nosso Amor",
     description:
-      "Comecamos a namorar no primeiro dia do ano, como se o universo quisesse dizer que tu serias o recomeco de tudo para mim. O melhor ano comecou contigo ao meu lado.",
-    image: "/images/momento-2.jpg",
+      "No começa t namora na primer dia do ano, moda se Universo dze, bh t bai ser recomeço de td enquanto. Mdjor ano começa k bh na nha lado.",
+    image: "/images/12.jpg",
     icon: <Heart className="w-4 h-4" fill="currentColor" />,
-    quote: "Tu foste, e es, a melhor coisa que me aconteceu.",
+    quote: "Bh foi, e bh é, mdjor coza k contceme.",
   },
   {
     date: "Inicio de 2025",
     title: "Os Primeiros Meses Juntos",
     description:
-      "Aprendemos a conhecer-nos, a amar os defeitos e as qualidades um do outro. Cada dia ao teu lado era uma nova descoberta, um novo motivo para sorrir.",
-    image: "/images/momento-6.jpg",
+      "No aprende a conxe cumpanher, a amá nos defeitose qualidades, Cada dia na bh lado, era um descoberta, um novo motivo p erri.",
+    image: "/images/13.png",
     icon: <Calendar className="w-4 h-4" />,
-    quote: "Ensinaste-me o que e amar de verdade.",
+    quote: "Bh ensiname a Ama de verdade.",
   },
   {
     date: "2025",
     title: "Primeira Viagem - Santo Antao",
     description:
-      "A nossa primeira aventura juntos. Santo Antao mostrou-nos paisagens incriveis, mas nenhuma se comparava a beleza de te ter ao meu lado. Cada montanha que subimos, cada vale que atravessamos, fortaleceu o nosso amor.",
-    image: "/images/momento-3.jpg",
+      "Nos primer aventura djunt.",
+    image: "/images/10.png",
     icon: <Plane className="w-4 h-4" />,
-    quote: "Contigo, cada destino e o lugar perfeito.",
+    quote: "Ma bh, cada destino e o lugar perfeito.",
   },
   {
     date: "2025",
     title: "Segunda Viagem - Santo Antao",
     description:
-      "Voltamos ao lugar que se tornou nosso. As montanhas, o mar, as estradas sinuosas... tudo tinha um significado diferente porque estavamos juntos, mais fortes e mais apaixonados do que nunca.",
+      "No volta na lugar onde k torna de nos.... tudo tinha um significado diferente porque no tava djunt, mais fortes e mais apaixonados do que nunca.",
     image: "/images/6.png",
     icon: <MapPin className="w-4 h-4" />,
-    quote: "Os melhores caminhos sao os que percorro contigo.",
+    quote: "Kes mdjor camin, foi kes k anda djunt ma bh",
   },
   {
     date: "2025 - 2026",
     title: "Crescer Juntos",
     description:
-      "Nos momentos em que eu nao estava bem, quando tudo parecia desmoronar-se, tu estavas la, firme, a segurar-me. Com a tua paciencia infinita, com o teu carinho genuino, mostraste-me que amar nao e perder-se, e encontrar-se no outro.",
+      "Cond tudo tava t parse desmoronar, bh tava la ma mi, firme, t segurame.",
     image: "/images/8.png",
     icon: <Heart className="w-4 h-4" fill="currentColor" />,
-    quote: "Tu es a minha certeza em meio a tantas duvidas, a minha paz em meio ao caos.",
+    quote: "BH é nha unico certesa na meio de tont duvida.",
   },
   {
     date: "Hoje e Sempre",
     title: "O Nosso Futuro",
     description:
-      "Ja la vai mais de um ano juntos. Aprendi que amar e desacordar, e confrontar, e crescer juntos atraves dos desafios. Quero que cada conflito nos aproxime mais, que cada palavra dita seja um tijolo na construcao do nosso futuro.",
+      "Ja passa mas de 1 one djunt. Un kre k cada conflito t aproxima nos mas ainda. E un cre faze kel sexo td dia cond un corda de cama kkkkk",
     image: "/images/9.png",
     icon: <Sparkles className="w-4 h-4" />,
-    quote: "Seras, sem duvida, o meu presente de todos os anos que virao.",
+    quote: "Bh t bai ser, sem duvida, nha mdjor presente de tudo es one ek t bem.",
   },
 ]
 

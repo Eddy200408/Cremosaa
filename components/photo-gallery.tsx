@@ -5,13 +5,13 @@ import Image from "next/image"
 import { Heart, X, ChevronLeft, ChevronRight } from "lucide-react"
 
 const photos = [
-  { src: "/images/momento-1.jpg", caption: "O nosso primeiro encontro" },
-  { src: "/images/momento-2.jpg", caption: "Ano novo, amor novo" },
-  { src: "/images/momento-3.jpg", caption: "Santo Antao - Primeira viagem" },
-  { src: "/images/momento-4.jpg", caption: "Juntos no topo do mundo" },
-  { src: "/images/momento-5.jpg", caption: "Momentos de paz" },
-  { src: "/images/momento-6.jpg", caption: "De maos dadas, sempre" },
-  { src: "/images/momento-7.jpg", caption: "Santo Antao - Segunda viagem" },
+  { src: "/images/1.png", caption: "O nosso primeiro encontro" },
+  { src: "/images/12.jpg", caption: "Ano novo, amor novo" },
+  { src: "/images/5.png", caption: "Santo Antao - Primeira viagem" },
+  { src: "/images/2.png", caption: "Juntos no topo do mundo" },
+  { src: "/images/8.png", caption: "Momentos de paz" },
+  { src: "/images/4.png", caption: "De maos dadas, sempre" },
+  { src: "/images/11.png", caption: "Santo Antao - Segunda viagem" },
   { src: "/images/momento-8.jpg", caption: "Palavras de amor" },
 ]
 
@@ -66,7 +66,7 @@ export function PhotoGallery() {
               Galeria de Momentos
             </h2>
             <p className="text-muted-foreground max-w-lg mx-auto text-sm md:text-base" style={{ fontFamily: "var(--font-body)" }}>
-              Cada fotografia conta uma historia. Aqui estao os momentos que guardo no coracao.
+              Cada fot t conta um historia de kes kes momento k un t guarda sempre  na nha coração.
             </p>
             <div className="w-16 h-[1px] bg-primary/30 mx-auto mt-6" />
           </div>
@@ -99,9 +99,7 @@ export function PhotoGallery() {
             ))}
           </div>
 
-          <p className="text-center text-muted-foreground/50 text-xs mt-8 italic" style={{ fontFamily: "var(--font-body)" }}>
-            Estas sao imagens ilustrativas. Substitui pelas nossas fotos reais para tornar tudo ainda mais especial.
-          </p>
+         
         </div>
       </section>
 
