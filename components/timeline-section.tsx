@@ -64,7 +64,7 @@ const timelineEvents: TimelineEvent[] = [
     title: "Crescer Juntos",
     description:
       "Nos momentos em que eu nao estava bem, quando tudo parecia desmoronar-se, tu estavas la, firme, a segurar-me. Com a tua paciencia infinita, com o teu carinho genuino, mostraste-me que amar nao e perder-se, e encontrar-se no outro.",
-    image: "/images/momento-4.jpg",
+    image: "/images/8.png",
     icon: <Heart className="w-4 h-4" fill="currentColor" />,
     quote: "Tu es a minha certeza em meio a tantas duvidas, a minha paz em meio ao caos.",
   },
@@ -73,7 +73,7 @@ const timelineEvents: TimelineEvent[] = [
     title: "O Nosso Futuro",
     description:
       "Ja la vai mais de um ano juntos. Aprendi que amar e desacordar, e confrontar, e crescer juntos atraves dos desafios. Quero que cada conflito nos aproxime mais, que cada palavra dita seja um tijolo na construcao do nosso futuro.",
-    image: "/images/momento-5.jpg",
+    image: "/images/9.png",
     icon: <Sparkles className="w-4 h-4" />,
     quote: "Seras, sem duvida, o meu presente de todos os anos que virao.",
   },
